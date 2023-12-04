@@ -9,7 +9,9 @@
 6.  The test will be automically run. Wait until the test finish.
 7.  There will 3 files generated:  
     -amazon.json  > contain search result for amamzon
+    
     -ebay.json    > contain search result for ebay
+    
     -finaresult.json  > contain search result for combineed records.
 
 # Installation issues
